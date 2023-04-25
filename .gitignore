@@ -162,4 +162,5 @@ cython_debug/
 anotacoes.txt
 testes_comandos_bd.py
 /instance/comunidade.db
+.idea
 comunidade.db
