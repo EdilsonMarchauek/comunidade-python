@@ -19,11 +19,11 @@ O Flask é um dos frameworks web mais populares em Python, ao lado do Django, e 
 
 * <b>Jinja2:</b> é um mecanismo de template utilizado pelo Flask para renderizar as páginas HTML. Ele permite que os desenvolvedores criem modelos de página reutilizáveis e insiram dados dinâmicos na página.
 
-* Flask-WTF: é uma biblioteca que fornece recursos para a criação e validação de formulários web. Ele oferece suporte para campos de entrada, seleções, upload de arquivos, entre outros.
+* <b>Flask-WTF:</b> é uma biblioteca que fornece recursos para a criação e validação de formulários web. Ele oferece suporte para campos de entrada, seleções, upload de arquivos, entre outros.
 
-* Flask-Login: é uma biblioteca que fornece recursos de autenticação de usuário para o Flask. Ele permite que os usuários criem uma conta, façam login e acessem áreas restritas do aplicativo.
+* <b>Flask-Login:</b> é uma biblioteca que fornece recursos de autenticação de usuário para o Flask. Ele permite que os usuários criem uma conta, façam login e acessem áreas restritas do aplicativo.
 
-* Flask-SQLAlchemy: é uma biblioteca que fornece recursos de banco de dados para o Flask. Ele oferece suporte para a criação de tabelas, consultas e manipulação de dados de um banco de dados SQL.
+* <b>Flask-SQLAlchemy:</b> é uma biblioteca que fornece recursos de banco de dados para o Flask. Ele oferece suporte para a criação de tabelas, consultas e manipulação de dados de um banco de dados SQL.
 
 
 
